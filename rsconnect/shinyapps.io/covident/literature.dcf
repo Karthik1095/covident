@@ -1,0 +1,12 @@
+name: literature
+title: literature
+username:
+account: covident
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2313318
+bundleId: 3169774
+url: https://covident.shinyapps.io/literature/
+when: 1589967114.32461
+asMultiple: FALSE
+asStatic: FALSE

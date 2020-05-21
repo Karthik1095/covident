@@ -1,0 +1,13 @@
+name: covident-review
+title: covident-review
+username:
+account: karthikeyan1095
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2312476
+bundleId: 3157899
+url: https://karthikeyan1095.shinyapps.io/covident-review/
+when: 1589718098.13207
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: pubmedhook.R

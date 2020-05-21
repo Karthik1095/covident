@@ -1,0 +1,12 @@
+name: covidreview-master
+title: covidreview-master
+username:
+account: covident
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2313250
+bundleId: 3158009
+url: https://covident.shinyapps.io/covidreview-master/
+when: 1589721759.33582
+asMultiple: FALSE
+asStatic: FALSE
